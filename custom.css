@@ -1,0 +1,18 @@
+body{
+	background-color: #E0A025;	
+}
+.main-section{
+	margin-top:150px;
+	background-color: white;
+	padding:20px 0px 50px 0px;
+}
+.main-section .rateyo{
+	position: relative;
+	left:50%;
+	transform:translateX(-50%);
+}
+.main-section h1{
+	color: black;
+	font-size: 25px;
+	margin:20px 0px 50px 0px;
+}
